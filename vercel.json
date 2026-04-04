@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "http://zenith-dashboard-seven.vercel.app/api/:path*"
+      "destination": "http://uk1.airanode.cloud:25768/api/:path*"
     },
     {
       "source": "/(.*)",
