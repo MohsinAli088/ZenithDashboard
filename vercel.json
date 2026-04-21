@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "http://n1.nexio.host:25659/api/:path*"
+      "destination": "http://us1.airanode.cloud:25705/api/:path*"
     },
     {
       "source": "/(.*)",
